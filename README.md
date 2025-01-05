@@ -118,5 +118,24 @@ Check Mounted EFI Partition:
 Click on the Open_EFIs_FSKIT icon in the menu bar and select Verificar partição EFI montada.
 Select the EFI partition you want to check from the displayed list.
 A dialog window will display if the partition is mounted and the mount point, if applicable.
+Exit:
+
+Click on the Open_EFIs_FSKIT icon in the menu bar and select Sair to close the application.
+
+
+Contribution
+Contributions are welcome! Feel free to open issues and pull requests in the repository.
+
+License
+This project is licensed under the MIT License.
+
+Screenshots
+Add some screenshots of the app in operation here to help users better understand how to use it.
+
+Support
+If you encounter any problems or have any questions, please open an issue in the repository.
+
+Thanks
+Thanks to all contributors and users who helped improve this project.
 
 
