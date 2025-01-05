@@ -65,3 +65,24 @@ Se você encontrar algum problema ou tiver alguma dúvida, por favor, abra uma i
 
 Agradecimentos
 Agradecemos a todos os contribuidores e usuários que ajudaram a melhorar este projeto.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Open_EFIs_FSKIT
+
+https://www.youtube.com/channel/UC-SkAYQyY0e49ALoOrdcOTQ
+
+https://discord.gg/5hvZ5u7QXQ
+
+Open_EFIs_FSKIT
+
+Open_EFIs_FSKIT is an application for macOS that allows you to manage EFI partitions easily and intuitively. With this app, you can list, mount, unmount, and check EFI partitions directly from the macOS menu bar.
+
+Features
+
+List EFI Partitions: Displays all EFI partitions available on the system.
+Mount EFI Partition: Mounts a selected EFI partition.
+Unmount EFI Partition: Unmounts a selected EFI partition.
+Check Mounted EFI Partition: Checks whether an EFI partition is mounted and displays the mount point.
+Exit: Closes the application.
