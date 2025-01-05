@@ -86,3 +86,14 @@ Mount EFI Partition: Mounts a selected EFI partition.
 Unmount EFI Partition: Unmounts a selected EFI partition.
 Check Mounted EFI Partition: Checks whether an EFI partition is mounted and displays the mount point.
 Exit: Closes the application.
+
+Requirements
+
+macOS
+Installation
+
+Clone the repository:
+git clone https://github.com/hnanoto/Open_EFIs_FSKIT.git
+cd Open_EFIs_FSKIT
+
+
