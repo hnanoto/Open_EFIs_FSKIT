@@ -66,7 +66,7 @@ Se você encontrar algum problema ou tiver alguma dúvida, por favor, abra uma i
 Agradecimentos
 Agradecemos a todos os contribuidores e usuários que ajudaram a melhorar este projeto.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Open_EFIs_FSKIT
@@ -96,5 +96,27 @@ Clone the repository:
 git clone https://github.com/hnanoto/Open_EFIs_FSKIT.git
 
 cd Open_EFIs_FSKIT
+
+
+Usage
+List EFI Partitions:
+
+Click on the Open_EFIs_FSKIT icon in the menu bar and select Listar partições EFI.
+A dialog window will display all available EFI partitions.
+Mount EFI Partition:
+
+Click on the Open_EFIs_FSKIT icon in the menu bar and select Montar partição EFI.
+Select the EFI partition you want to mount from the displayed list.
+The partition will be mounted and a dialog window will display the mount point.
+Unmount EFI Partition:
+
+Click on the Open_EFIs_FSKIT icon in the menu bar and select Desmontar partição EFI.
+Select the EFI partition you want to unmount from the displayed list.
+The partition will be unmounted and a dialog window will confirm the action.
+Check Mounted EFI Partition:
+
+Click on the Open_EFIs_FSKIT icon in the menu bar and select Verificar partição EFI montada.
+Select the EFI partition you want to check from the displayed list.
+A dialog window will display if the partition is mounted and the mount point, if applicable.
 
 
