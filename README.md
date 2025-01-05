@@ -24,7 +24,7 @@ Open_EFIs_FSKIT é um aplicativo para macOS que permite gerenciar partições EF
 
 1. **Clone o repositório**:
    ```sh
-   git clone https://github.com/seuusuario/Open_EFIs_FSKIT.git
+   git clone https://github.com/hnanoto/Open_EFIs_FSKIT.git
    cd Open_EFIs_FSKIT
 
    Uso
