@@ -94,6 +94,7 @@ Installation
 
 Clone the repository:
 git clone https://github.com/hnanoto/Open_EFIs_FSKIT.git
+
 cd Open_EFIs_FSKIT
 
 
